@@ -10,5 +10,8 @@
 
 <h1>Hello word</h1>
 <p> aaaaaaa
+<ul>
+    <li>1. aku</li>
+</ul>
 </body>
 </html>
